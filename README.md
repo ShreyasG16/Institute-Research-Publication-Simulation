@@ -10,6 +10,12 @@ The project is divided into three parts:
 
 ## Building and Running the Project
 
+- **Through common makefile**:
+    make
+    Then navigate to each folder to run the executable.
+
+  Or execute individually.
+
 - For **Question 1**:
   cd 'Question 1'
   make
