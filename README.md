@@ -41,7 +41,6 @@ The project uses the following external resources:
 - https://bibtexparser.readthedocs.io/en/main/
 - https://youtu.be/RRVYpIET_RU?si=iu8xTQqKVuchmaNz
 - https://git-scm.com/doc
-- Claude
 
   
 Feel free to explore! ✨
